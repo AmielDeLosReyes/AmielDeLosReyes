@@ -1,6 +1,6 @@
 - My name is Amiel De Los Reyes.
 - I'm interested in becoming a Software Developer/Engineer
-- I am currently studying as a Computer Science student at the University of Regina
+- I finished with a BSc in Computer Science at the University of Regina (Regina, Saskatchewan, Canada)
 - How to reach me:
   - Email: amielxvr@gmail.com
   - Phone: 306-201-5554
