@@ -1,6 +1,6 @@
 # Hi there, I'm Amiel De Los Reyes 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielDeLosReyes&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielDeLosReyes&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Journey into Software Engineering 🚀
