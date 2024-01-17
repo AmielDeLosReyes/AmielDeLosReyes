@@ -14,34 +14,16 @@ Discovering the power of software development ignited a new passion in me, remin
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frameworks
-- ![Java Spring Boot](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![Spark Scala](https://img.shields.io/badge/Spark_Scala-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-- ![PHP CodeIgniter](https://img.shields.io/badge/PHP_CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-- ![Python Django](https://img.shields.io/badge/Python_Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Python Flask](https://img.shields.io/badge/Python_Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![Java Spring Boot](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spark Scala](https://img.shields.io/badge/Spark_Scala-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![PHP CodeIgniter](https://img.shields.io/badge/PHP_CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white) ![Python Django](https://img.shields.io/badge/Python_Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Python Flask](https://img.shields.io/badge/Python_Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Front-End Development
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-- ![AJAX](https://img.shields.io/badge/AJAX-424242?style=for-the-badge&logo=ajax&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-424242?style=for-the-badge&logo=ajax&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Database
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![CassandraDB](https://img.shields.io/badge/CassandraDB-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Snowflake](https://img.shields.io/badge/Snowflake-258BF9?style=for-the-badge&logo=snowflake&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![CassandraDB](https://img.shields.io/badge/CassandraDB-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-258BF9?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Support
-- ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white)
-- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-- ![Azure Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Azure Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Key Experiences 🛠️
 
