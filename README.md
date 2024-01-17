@@ -3,7 +3,7 @@
 - I graduated with a BSc in Computer Science at the University of Regina (Regina, Saskatchewan, Canada)
 - How to reach me:
   - Email: amielxvr@gmail.com
-  - Phone: 306-201-5554
+  - Portfolio: https://amiel-delosreyes-resume.netlify.app/
 
 <!---
 AmielDeLosReyes/AmielDeLosReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
