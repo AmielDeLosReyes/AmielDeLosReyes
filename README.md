@@ -74,6 +74,10 @@ I have a hunger for self-development and growth, and I'm a fast learner. My jour
 
 ## Let's Connect 🤝
 
+## Let's Connect 🤝
+
 Feel free to reach out:
-- Email: amielxvr@gmail.com
-- Portfolio: https://amiel-delosreyes-resume.netlify.app
+- ✉️ Email: [amielxvr@gmail.com](mailto:amielxvr@gmail.com)
+- ![LinkedIn] LinkedIn: [Amiel Xavier De Los Reyes](https://www.linkedin.com/in/amiel-xavier-de-los-reyes-567096219/)
+- 🌐 Portfolio: [Amiel's Portfolio](https://amiel-delosreyes-resume.netlify.app/)
+
