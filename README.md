@@ -78,6 +78,6 @@ I have a hunger for self-development and growth, and I'm a fast learner. My jour
 
 Feel free to reach out:
 - ✉️ Email: [amielxvr@gmail.com](mailto:amielxvr@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiel-xavier-de-los-reyes-567096219/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiel-xavier-de-los-reyes-567096219/)
 - 🌐 Portfolio: [Amiel's Portfolio](https://amiel-delosreyes-resume.netlify.app/)
 
