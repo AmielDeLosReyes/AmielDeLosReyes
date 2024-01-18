@@ -4,26 +4,6 @@
 
 My journey into the world of coding began in 2017, transitioning from being a dedicated athlete to a relentless problem solver in software development. I thrive on challenges and view every problem as an opportunity to provide ingenious solutions. The Covid-19 pandemic redirected my path, and I embraced the power of software development, discovering a new passion akin to my dedication to basketball.
 
-## What I Can Do
-
-I am a versatile software engineer with a comprehensive skill set developed through hands-on experience in full-stack development. My journey in software engineering has spanned the entire Software Development Life Cycle (SDLC), covering each crucial phase:
-
-- **Planning Phase:** Actively participated in project ideation, scope definition, and resource allocation, ensuring a solid foundation for successful project execution.
-
-- **Requirement Analysis Phase:** Conducted thorough analysis of project requirements, ensuring a clear understanding of client needs and project goals for effective planning.
-
-- **Designing Phase:** Proficient in designing robust and scalable software architectures that align with project requirements and consider scalability and maintainability.
-
-- **Implementation Phase:** Hands-on experience in coding and implementation, translating design concepts into functional and efficient code using various programming languages and frameworks.
-
-- **Testing Phase:** Committed to quality assurance, integrating testing methodologies to ensure the reliability and robustness of software solutions.
-
-- **Deployment/Maintenance Phase:** Actively involved in deployment and maintenance phases, ensuring seamless transitions from development to production and addressing issues promptly.
-
-My journey towards becoming a software engineer started with personal projects and freelancing, progressively evolving into a professional role. Eager to learn from others, I embrace change, setbacks, and constructive criticisms.
-
-Driven by a hunger for continuous improvement, I aspire to be the best full-package software engineer possible. My character is defined by resilience and a perpetual quest for wisdom. What sets me apart is not just technical expertise but also a genuine desire to add value to others and contribute positively to the world. I am coachable, adaptable, and committed to delivering impactful solutions that meet and exceed expectations.
-
 ## The Power of Software Development 💻
 
 Discovering the power of software development ignited a new passion in me, reminiscent of my dedication to basketball. I found joy in solving problems through code, and this led me to explore various projects, starting with volunteer work at my local church. From building a Church Management System to participating in hackathons and crafting innovative solutions, I've evolved into a hungry and growth-oriented Software Engineer.
@@ -44,6 +24,27 @@ Discovering the power of software development ignited a new passion in me, remin
 
 ### Support
 - ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Azure Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+## What I Can Do
+
+I am a versatile software engineer with a comprehensive skill set developed through hands-on experience in full-stack development. My journey in software engineering has spanned the entire Software Development Life Cycle (SDLC), covering each crucial phase:
+
+- **Planning Phase:** Actively participated in project ideation, scope definition, and resource allocation, ensuring a solid foundation for successful project execution.
+
+- **Requirement Analysis Phase:** Conducted thorough analysis of project requirements, ensuring a clear understanding of client needs and project goals for effective planning.
+
+- **Designing Phase:** Proficient in designing robust and scalable software architectures that align with project requirements and consider scalability and maintainability.
+
+- **Implementation Phase:** Hands-on experience in coding and implementation, translating design concepts into functional and efficient code using various programming languages and frameworks.
+
+- **Testing Phase:** Committed to quality assurance, integrating testing methodologies to ensure the reliability and robustness of software solutions.
+
+- **Deployment/Maintenance Phase:** Actively involved in deployment and maintenance phases, ensuring seamless transitions from development to production and addressing issues promptly.
+
+My journey towards becoming a software engineer started with personal projects and freelancing, progressively evolving into a professional role. Eager to learn from others, I embrace change, setbacks, and constructive criticisms.
+
+Driven by a hunger for continuous improvement, I aspire to be the best full-package software engineer possible. My character is defined by resilience and a perpetual quest for wisdom. What sets me apart is not just technical expertise but also a genuine desire to add value to others and contribute positively to the world. I am coachable, adaptable, and committed to delivering impactful solutions that meet and exceed expectations.
 
 ## Key Experiences 🛠️
 
