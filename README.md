@@ -57,5 +57,5 @@ Feel free to reach out:
 - 💼 LinkedIn: [Amiel Xavier De Los Reyes](https://www.linkedin.com/in/amiel-xavier-de-los-reyes-567096219/)
 - 🌐 Portfolio: [Amiel's Portfolio](https://amiel-delosreyes-resume.netlify.app/)
 
-# <span style="color: maroon;">Checkout my top projects below!</span>
+<h1 style="color: maroon;">Checkout my top projects below!</h1>
 
