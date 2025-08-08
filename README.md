@@ -2,7 +2,7 @@
 
 ## Journey into Software Engineering 🚀
 
-My journey into the world of coding began in 2017, transitioning from being a dedicated athlete to a relentless problem solver in software development. I thrive on challenges and view every problem as an opportunity to provide ingenious solutions. The Covid-19 pandemic redirected my path, and I embraced the power of software development, discovering a new passion akin to my dedication to basketball.
+My journey into the world of programming began in 2017, transitioning from being a dedicated athlete to a relentless problem solver in software development. I thrive on challenges and view every problem as an opportunity to provide ingenious solutions. The Covid-19 pandemic redirected my path, and I embraced the power of software development, discovering a new passion akin to my dedication to basketball.
 
 ## The Power of Software Development 💻
 
